@@ -28,10 +28,10 @@ Data Cleaning:
 * Converted numeric month values (1-12) to month names (January-December).
   
 Exploratory Data Analysis:
-Conducted an in-depth analysis of sales patterns and trends using Python and R.
+* Conducted an in-depth analysis of sales patterns and trends using Python and R.
 
 Visualization:
-Created insightful visualizations using Tableau and Power BI to highlight key findings and recommendations.
+* Created insightful visualizations using Tableau to highlight key findings and recommendations.
 
 ## 📊 Conclusion
 The analysis provided valuable insights into sales trends, customer behavior, and product performance. Key revenue drivers were identified, including top-performing cities, states, products, and sales representatives. Seasonal trends and peak periods were highlighted, offering actionable recommendations to optimize marketing strategies, inventory management, and sales performance for future growth.
